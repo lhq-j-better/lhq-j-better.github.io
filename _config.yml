@@ -104,3 +104,5 @@ friends: [
         href: "https://user.qzone.qq.com/763632983"
     }
 ]
+
+theme: jekyll-theme-time-machine
